@@ -1,0 +1,4 @@
+-> Open a new kaggle code file from your kaggle account
+-> Upload the archive.zip as dataset there itself
+-> Update the first cell accordingly
+-> Run all cells
